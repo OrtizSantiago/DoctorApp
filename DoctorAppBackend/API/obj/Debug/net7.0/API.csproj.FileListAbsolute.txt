@@ -78,3 +78,4 @@ C:\Users\santi\OneDrive\Escritorio\Angular\Angular + .Net\DoctorApp\DoctorAppBac
 C:\Users\santi\OneDrive\Escritorio\Angular\Angular + .Net\DoctorApp\DoctorAppBackend\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\santi\OneDrive\Escritorio\Angular\Angular + .Net\DoctorApp\DoctorAppBackend\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\santi\OneDrive\Escritorio\Angular\Angular + .Net\DoctorApp\DoctorAppBackend\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\santi\OneDrive\Escritorio\Angular\Angular + .Net\DoctorApp\DoctorAppBackend\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
